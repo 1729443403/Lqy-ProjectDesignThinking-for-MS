@@ -1,10 +1,10 @@
 # Lqy-Project: Design Thinking for Microcontroller Systems
 
 ## Abstract
-This project presents an integrated embedded systems course design utilizing the **ARM Cortex-M4** based **MBED L432KC** development board. The system incorporates:
+This project presents an integrated embedded systems course design utilizing the ARM Cortex-M4 based MBED L432KC development board. The system incorporates:
 - Wireless communication via UART Bluetooth (BT24 module)
 - Visual output through I²C-interfaced OLED (SH1106 controller, 128×64 resolution)
-- **Audio pattern recognition using SU03T voice recognition IC
+- Audio pattern recognition using SU03T voice recognition IC
 - Real-time debugging via online serial port monitoring
 
 ## Hardware Architecture
