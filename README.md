@@ -1,4 +1,5 @@
-# Lqy-Project: Design Thinking for Microcontroller Systems
+# Lqy-Project: A switch light system based on voice recognition and Bluetooth control
+(Design Thinking for Microcontroller Systems)
 
 ## Abstract
 This project presents an integrated embedded systems course design utilizing the ARM Cortex-M4 based MBED L432KC development board. The system incorporates:
