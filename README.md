@@ -1,6 +1,7 @@
 # Lqy-Project: A switch light system based on voice recognition and Bluetooth control
 (Design Thinking for Microcontroller Systems)
-
+## Mbed Version
+Mbed 5.15 is used in this project
 ## Abstract
 This project presents an integrated embedded systems course design utilizing the ARM Cortex-M4 based MBED L432KC development board. The system incorporates:
 - Wireless communication via UART Bluetooth (BT24 module)
