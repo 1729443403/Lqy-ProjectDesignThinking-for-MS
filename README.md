@@ -12,7 +12,7 @@ This project presents an integrated embedded systems course design utilizing the
 ## Hardware Architecture
 ```mermaid
 graph TD
-    A[MBED L432KC] --> B[HC-05 Bluetooth]
+    A[MBED L432KC] --> B[DX-BT24 Bluetooth]
     A --> C[SH1106 OLED]
     A --> D[SU03T Voice Module]
     A --> E[Servo Motors]
